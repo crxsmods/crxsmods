@@ -1,4 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=header"/>
+
+
 # ¡Hola👋 Soy Cris!
 
 <p align="center">  
