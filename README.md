@@ -1,4 +1,5 @@
-# ¡Hola 👋!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=header"/>
+# ¡Hola👋 Soy Cris!
 
 <p align="center">  
   <a href="https://github.com/crxsmods">
@@ -11,48 +12,40 @@
 </p>
 
 
-> ## 📕 About Me
-I'm a College Student...
-CS Student...
-I Can Edit Source Files...
-
-## 🛠 Skills
+## 🛠 ESPECIALIDADES
 C&C++, HTML5, CSS, JAVASCRIPT
 
-## Others
+## EXTRA
 
-- 👋 Hi, I’m **Salman Ahmad**
+- 👋 Mi Nombre es **Cris...**
 
--  👨🏻‍🦱 **18** years old
+-  🗺 Soy De **MEXICO**
 
--  🗺 Currently living in **Pakistan, Punjab, Lahore**
+- 🔭 Actualmente en [HackStoreX](https://hackstorex.com) (Tal vez dejare ese proyecto...)
 
-- 🔭 I’m currently working on [XLICON-MD BOTS](https://github.com/salmanytofficial/XLICON-V3-MD)
+- 🧠 Soy **PROGRAMADOR - INGENIERO**
 
-- 🧠 I’m currently learning **BASIC CODING and PROGRAMMING**
+- 👯‍♀️ Me gusta y colaboro con **Bots de Whatsapp**
 
-- 👯‍♀️ I’m looking to collaborate on **Whatsapp Bots**
+- 🤝 Tambien me gusta **colaborar con otros programadores**
 
-- 🤝 I’m looking for help with **other developers**
+- 💬 Experto en **CARDING**
 
--  💬 Ask me about **Ai Bots**
-
-- 📫 How to reach me **salmansheikh2500@gmail.com**
+- 📫 Contactame **blackstoreoffc@gmail.com**
  
-- 🚩Instagram : https://instagram.com/ahmmikun/
+- 🚩Instagram : https://instagram.com/crxs_ofc/
 
-- ⚡️ Fun fact...
-**Everyone thinks that i'm a Programmer ...But actually i can't even creata a simple website 😂**
+- ⚡️ Por cierto...
+**Soy un programador? - No se hacer un Hello World**
 ---
 
-### 🗼 How To Reach Me :
+### 🗼 Contactame :
 <p align="center">
-<a href="https://youtube.com/@s4salmanyt"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@s4salmanyt" /><br>
-<a href="http://Wa.me/923184070915">
-    <img src="https://img.shields.io/badge/Wa Pc-electric green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
-  </a>
-<a href="https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk"><img src="https://img.shields.io/badge/Wa Gc 1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/BlvC2aKImgU1n3g774Vm5c"><img src="https://img.shields.io/badge/Wa Gc 2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://youtube.com/@FreeScrptsPhp"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@s4salmanyt" /><br>
+<a href="http://Wa.me/5217121649714">
+<p align="left">
+<a href="https://t.me/crxsmods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="crxsmods" height="30" width="40" /></a>
+<a href="https://instagram.com/crxsmods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="crxsmods" height="30" width="40" /></a>
 </p>
   
 ## 🌐 Socials:
