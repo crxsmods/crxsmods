@@ -1,17 +1,17 @@
 # ¡Hola 👋!
 
 <p align="center">  
-  <a href="https://github.com/salmanytofficial">
-    <img alt="Salman Ahmad" height="300" src="https://avatars.githubusercontent.com/u/140977479?v=4">
+  <a href="https://github.com/crxsmods">
+    <img alt="Crxs Mods" height="300" src="https://avatars.githubusercontent.com/u/113566411?v=4">
   </a>
 </p>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/salmanytofficial/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/crxsmods/count.svg" />
 </p>
 
 
-## 📕 About Me
+> ## 📕 About Me
 I'm a College Student...
 CS Student...
 I Can Edit Source Files...
