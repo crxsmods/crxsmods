@@ -71,7 +71,7 @@ C&C++, HTML5, CSS, JAVASCRIPT
 ---
 
 ### 📊 Repo Estadisticas : 
-  ![github card](https://github-readme-stats.vercel.app/api/pin/?username=crxsmods&repo=Kantu-Bot-MD&theme=radical)
+  ![github card](https://github-readme-stats.vercel.app/api/pin/?username=crxsmods&repo=KANTU-BOT&theme=radical)
 
 ---
 
